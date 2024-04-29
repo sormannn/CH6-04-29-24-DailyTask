@@ -85,10 +85,6 @@ To use the project's functionalities, import the database file provided in the `
 
 This repository is released under the MIT License.
 
-### Author
-
-- **LSCBLACK (Loue Sauevur Christian)**
-
 ---
 
 This project simplifies data management using React. If you encounter any issues or have suggestions for improvement, feel free to explore or contribute to the project! If you need further assistance, don't hesitate to reach out.
