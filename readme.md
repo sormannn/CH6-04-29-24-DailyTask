@@ -29,8 +29,7 @@ Follow these steps to run the project:
 
 1. **Clone the Repository:**
    ```
-   git clone https://github.com/lscblack/Manage-Data-with-React-CRUD-Operations.git
-   cd Manage-Data-with-React-CRUD-Operations
+   git clone https://github.com/sormannn/CH6-04-29-24-DailyTask.git
    ```
 ## Additional Steps
 
